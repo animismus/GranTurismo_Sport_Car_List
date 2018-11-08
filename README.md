@@ -21,5 +21,5 @@ The guys at GT Planet has a [great list](https://www.gtplanet.net/gran-turismo-s
 
 ##### - Log
 
-**08/11/2018:**November 06, 2018 — New cars in 1.29 Update added
-**08/11/2018:**First real commit
+**08/11/2018:** November 06, 2018 — New cars in 1.29 Update added  
+**08/11/2018:** First real commit
