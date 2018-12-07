@@ -2,7 +2,7 @@
 #### Updated ASAP with each new game content
 
 #### - Parsed from GT Planet
-The guys at GT Planet has a [great list](https://www.gtplanet.net/gran-turismo-sport-car-list/) that is updated when new content is added to the game. I just parse it and make it available in simple formats.
+The guys at GT Planet have a [great list](https://www.gtplanet.net/gran-turismo-sport-car-list/) that is updated when new content is added to the game. I just parse it and make it available in simple formats.
 
 
 #### - SQLite DB
