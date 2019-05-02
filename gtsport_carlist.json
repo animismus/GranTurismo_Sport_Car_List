@@ -1,1 +1,1766 @@
-[{"model": "Abarth 1500 Biposto Bertone B.A.T. 1", "version": "1.25", "brand": "ABARTH", "year": "1952"}, {"model": "Abarth 500", "version": "1.25", "brand": "ABARTH", "year": "2009"}, {"model": "Alfa Romeo Giulia TZ2 Carrozzata da Zagato CN.AR750106", "version": "1.28", "brand": "ALFA ROMEO", "year": "1965"}, {"model": "Alfa Romeo Mito 1.4T Sport", "version": "base", "brand": "ALFA ROMEO", "year": "2009"}, {"model": "Alfa Romeo 4C Launch Edition", "version": "base", "brand": "ALFA ROMEO", "year": "2014"}, {"model": "Alfa Romeo 4C Gr.3", "version": "base", "brand": "ALFA ROMEO", "year": "2014"}, {"model": "Alfa Romeo 4C Gr.3 Road Car", "version": "base", "brand": "ALFA ROMEO", "year": "2014"}, {"model": "Alfa Romeo 4C Gr.4", "version": "base", "brand": "ALFA ROMEO", "year": "2014"}, {"model": "A110 1600S", "version": "1.13", "brand": "ALPINE", "year": "1972"}, {"model": "Alpine Vision Gran Turismo", "version": "base", "brand": "ALPINE", "year": "2014"}, {"model": "Alpine Vision Gran Turismo Gr.1", "version": "base", "brand": "ALPINE", "year": "2014"}, {"model": "Alpine Vision Gran Turismo Race Mode", "version": "base", "brand": "ALPINE", "year": "2014"}, {"model": "A110 Premiere Edition", "version": "1.13", "brand": "ALPINE", "year": "2017"}, {"model": "Aston Martin One-77", "version": "base", "brand": "ASTON MARTIN", "year": "2011"}, {"model": "Aston Martin V12 Vantage GT3", "version": "base", "brand": "ASTON MARTIN", "year": "2012"}, {"model": "Aston Martin DP-100 Vision Gran Turismo", "version": "base", "brand": "ASTON MARTIN", "year": "2014"}, {"model": "Aston Martin V8 Vantage S", "version": "base", "brand": "ASTON MARTIN", "year": "2015"}, {"model": "Aston Martin V8 Vantage Gr.4", "version": "base", "brand": "ASTON MARTIN", "year": "2015"}, {"model": "Aston Martin Vulcan", "version": "base", "brand": "ASTON MARTIN", "year": "2015"}, {"model": "Aston Martin DB11", "version": "1.15", "brand": "ASTON MARTIN", "year": "2016"}, {"model": "Audi quattro S1 Pikes Peak", "version": "base", "brand": "AUDI", "year": "1987"}, {"model": "Audi R8 4.2 FSI R Tronic", "version": "1.13", "brand": "AUDI", "year": "2007"}, {"model": "Audi R18 TDI Audi Team Sport Joest", "version": "base", "brand": "AUDI", "year": "2011"}, {"model": "Audi R18 TDI Le Mans", "version": "base", "brand": "AUDI", "year": "2011"}, {"model": "Audi R8 LMS (Audi Team Sport WRT)", "version": "base", "brand": "AUDI", "year": "2015"}, {"model": "Audi TTS Coupe", "version": "base", "brand": "AUDI", "year": "2015"}, {"model": "R18 e-tron", "version": "1.06", "brand": "AUDI", "year": "2016\u00a0Audi"}, {"model": "Audi TT Cup", "version": "base", "brand": "AUDI", "year": "2016"}, {"model": "Audi e-tron Vision Gran Turismo", "version": "1.17", "brand": "AUDI", "year": "2018"}, {"model": "Audi Vision Gran Turismo", "version": "1.17", "brand": "AUDI", "year": "2018"}, {"model": "BMW M3 Sport Evolution", "version": "1.15", "brand": "BMW", "year": "1989"}, {"model": "BMW M3 Coupe", "version": "1.31", "brand": "BMW", "year": "2007"}, {"model": "BMW M3 GT (BMW Motorsport)", "version": "1.28", "brand": "BMW", "year": "2011"}, {"model": "BMW Z4 GT3", "version": "base", "brand": "BMW", "year": "2011"}, {"model": "BMW M4 Coupe", "version": "base", "brand": "BMW", "year": "2014"}, {"model": "BMW M4 Gr.4", "version": "base", "brand": "BMW", "year": "2014"}, {"model": "BMW M4 Safety Car", "version": "base", "brand": "BMW", "year": "2014"}, {"model": "BMW Vision Gran Turismo", "version": "base", "brand": "BMW", "year": "2014"}, {"model": "BMW i3", "version": "base", "brand": "BMW", "year": "2015"}, {"model": "BMW M6 GT3", "version": "base", "brand": "BMW", "year": "2016"}, {"model": "BMW M6 GT3 (Walkenhorst Motorsport)", "version": "base", "brand": "BMW", "year": "2016"}, {"model": "Bugatti Veyron 16.4", "version": "base", "brand": "BUGATTI", "year": "2013"}, {"model": "Bugatti Veyron 16.4 Gr.4", "version": "base", "brand": "BUGATTI", "year": "2013"}, {"model": "Bugatti Vision Gran Turismo", "version": "base", "brand": "BUGATTI", "year": "2015"}, {"model": "Bugatti Vision Gran Turismo Gr.1", "version": "base", "brand": "BUGATTI", "year": "2015"}, {"model": "Chaparral 2X Vision Gran Turismo", "version": "base", "brand": "CHAPARRAL", "year": "2014"}, {"model": "Chevrolet Corvette Sting Ray Sport Coupe (C2)", "version": "1.31", "brand": "CHEVROLET", "year": "1963"}, {"model": "Chevrolet Corvette Stingray Convertible (C3)", "version": "1.10", "brand": "CHEVROLET", "year": "1969"}, {"model": "Chevrolet Corvette C7 Stingray", "version": "base", "brand": "CHEVROLET", "year": "2014"}, {"model": "Chevrolet Corvette C7 Gr.3", "version": "base", "brand": "CHEVROLET", "year": "2014"}, {"model": "Chevrolet Corvette C7 Gr.3 Road Car", "version": "base", "brand": "CHEVROLET", "year": "2014"}, {"model": "Chevrolet Corvette C7 Gr.4", "version": "base", "brand": "CHEVROLET", "year": "2014"}, {"model": "Chevrolet Camaro SS", "version": "base", "brand": "CHEVROLET", "year": "2016"}, {"model": "GT Road Car", "version": "base", "brand": "CITRO\u00cbN", "year": "2010\u00a0Citro\u00ebn"}, {"model": "Citro\u00ebn GT Race Car Gr.3", "version": "base", "brand": "CITRO\u00cbN", "year": "2010"}, {"model": "GT Gr.4", "version": "base", "brand": "CITRO\u00cbN", "year": "2010\u00a0Citro\u00ebn"}, {"model": "Citro\u00ebn DS3 Racing", "version": "base", "brand": "CITRO\u00cbN", "year": "2015"}, {"model": "Daihatsu Copen Active Top", "version": "1.23", "brand": "DAIHATSU", "year": "2002"}, {"model": "Daihatsu Copen RJ Vision Gran Turismo", "version": "base", "brand": "DAIHATSU", "year": "2017"}, {"model": "De Tomaso Pantera", "version": "1.13", "brand": "DE TOMASO", "year": "1971"}, {"model": "Dodge Challenger R/T", "version": "1.13", "brand": "DODGE", "year": "1970"}, {"model": "Dodge Viper GTS Coupe", "version": "1.11", "brand": "DODGE", "year": "2002"}, {"model": "Dodge Viper SRT10 Coupe", "version": "1.28", "brand": "DODGE", "year": "2006"}, {"model": "Dodge SRT Viper GTS", "version": "base", "brand": "DODGE", "year": "2013"}, {"model": "Dodge Viper Gr.4", "version": "base", "brand": "DODGE", "year": "2013"}, {"model": "Dodge SRT Viper GT3-R", "version": "base", "brand": "DODGE", "year": "2014"}, {"model": "Dodge Charger SRT Hellcat", "version": "base", "brand": "DODGE", "year": "2015"}, {"model": "Dodge SRT Tomahawk GTS-R Vision Gran Turismo", "version": "base", "brand": "DODGE", "year": "2015"}, {"model": "Dodge SRT Tomahawk S Vision Gran Turismo", "version": "base", "brand": "DODGE", "year": "2015"}, {"model": "Dodge SRT Tomahawk Vision Gran Turismo Gr.1", "version": "base", "brand": "DODGE", "year": "2015"}, {"model": "Dodge SRT Tomahawk X Vision Gran Turismo", "version": "base", "brand": "DODGE", "year": "2015"}, {"model": "Ferrari 250 GTO CN.3729GT", "version": "1.23", "brand": "FERRARI", "year": "1962"}, {"model": "Ferrari 330 P4", "version": "1.11", "brand": "FERRARI", "year": "1967"}, {"model": "Ferrari 512BB", "version": "1.11", "brand": "FERRARI", "year": "1976"}, {"model": "Ferrari GTO", "version": "1.29", "brand": "FERRARI", "year": "1984"}, {"model": "Ferrari F40", "version": "1.10", "brand": "FERRARI", "year": "1992"}, {"model": "Ferrari F50", "version": "1.31", "brand": "FERRARI", "year": "1995"}, {"model": "Ferrari Enzo Ferrari", "version": "1.10", "brand": "FERRARI", "year": "2002"}, {"model": "Ferrari 458 Italia", "version": "base", "brand": "FERRARI", "year": "2009"}, {"model": "Ferrari 458 Italia Gr.4", "version": "base", "brand": "FERRARI", "year": "2009"}, {"model": "Ferrari 458 Italia GT3", "version": "base", "brand": "FERRARI", "year": "2013"}, {"model": "Ferrari LaFerrari", "version": "base", "brand": "FERRARI", "year": "2013"}, {"model": "FIAT 500 F", "version": "1.19", "brand": "FIAT", "year": "1968"}, {"model": "Fittipaldi EF7 Vision Gran Turismo by Pininfarina", "version": "base", "brand": "FITTIPALDI MOTORS", "year": "2017"}, {"model": "Ford GT40 Mark I", "version": "1.15", "brand": "FORD", "year": "1966"}, {"model": "Ford Mark IV Race Car", "version": "1.25", "brand": "FORD", "year": "1967"}, {"model": "Ford Mustang Mach 1", "version": "1.13", "brand": "FORD", "year": "1971"}, {"model": "Ford GT", "version": "1.11", "brand": "FORD", "year": "2006"}, {"model": "Ford GT LM Spec II Test Car", "version": "1.23", "brand": "FORD", "year": "2007"}, {"model": "Ford F-150 SVT Raptor", "version": "1.10", "brand": "FORD", "year": "2011"}, {"model": "Ford Focus Gr.B", "version": "base", "brand": "FORD", "year": "2015"}, {"model": "Ford Focus ST", "version": "base", "brand": "FORD", "year": "2015"}, {"model": "Ford Mustang GT Premium Fastback", "version": "base", "brand": "FORD", "year": "2015"}, {"model": "Ford Mustang GT Gr.3", "version": "base", "brand": "FORD", "year": "2015"}, {"model": "Ford Mustang GT Gr.3 Road Car", "version": "base", "brand": "FORD", "year": "2015"}, {"model": "Ford Mustang GT Gr.4", "version": "base", "brand": "FORD", "year": "2015"}, {"model": "Ford Mustang GT Gr.B", "version": "base", "brand": "FORD", "year": "2015"}, {"model": "F1500T-A", "version": "1.13", "brand": "GRAN TURISMO", "year": "1985"}, {"model": "Amuse S2000 GT1 Turbo", "version": "1.25", "brand": "GRAN TURISMO", "year": "2004"}, {"model": "Gran Turismo Racing Kart 125 Shifter", "version": "base", "brand": "GRAN TURISMO", "year": "2010"}, {"model": "Eckerts Rod & Custom Mach Forty", "version": "1.15", "brand": "GRAN TURISMO", "year": "2012"}, {"model": "Chris Holstrom Concepts 1967 Chevy Nova", "version": "1.10", "brand": "GRAN TURISMO", "year": "2013"}, {"model": "Gran Turismo Red Bull X2014 Junior", "version": "1.15", "brand": "GRAN TURISMO", "year": "2014"}, {"model": "Gran Turismo Red Bull X2014 Standard", "version": "1.15", "brand": "GRAN TURISMO", "year": "2014"}, {"model": "GReddy Fugu Z", "version": "1.31", "brand": "GRAN TURISMO", "year": "2015"}, {"model": "Honda Beat", "version": "1.23", "brand": "HONDA", "year": "1991"}, {"model": "Honda NSX Type R 1992", "version": "1.28", "brand": "HONDA", "year": "1992"}, {"model": "Honda NSX Epson NSX", "version": "1.29", "brand": "HONDA", "year": "2008"}, {"model": "Honda\u00a0Project 2&4 powered by RC213V", "version": "base", "brand": "HONDA", "year": "2015"}, {"model": "Honda S660", "version": "1.23", "brand": "HONDA", "year": "2015"}, {"model": "Honda Civic Type R (FK2)", "version": "base", "brand": "HONDA", "year": "2016"}, {"model": "Honda RAYBRIG NSX CONCEPT-GT", "version": "1.15", "brand": "HONDA", "year": "2016"}, {"model": "Honda NSX", "version": "base", "brand": "HONDA", "year": "2017"}, {"model": "Honda NSX Gr.3", "version": "base", "brand": "HONDA", "year": "2017"}, {"model": "Honda NSX Gr.4", "version": "base", "brand": "HONDA", "year": "2017"}, {"model": "Honda NSX Gr.B", "version": "base", "brand": "HONDA", "year": "2017"}, {"model": "Honda\u00a0Sports Vision Gran Turismo", "version": "base", "brand": "HONDA", "year": "2017"}, {"model": "Hyundai Genesis Coupe 3.8 Track", "version": "base", "brand": "HYUNDAI", "year": "2013"}, {"model": "Hyundai Genesis Gr.3", "version": "base", "brand": "HYUNDAI", "year": "2013"}, {"model": "Hyundai Genesis Gr.4", "version": "base", "brand": "HYUNDAI", "year": "2013"}, {"model": "Hyundai Genesis Gr.B", "version": "base", "brand": "HYUNDAI", "year": "2013"}, {"model": "Hyundai N 2025 Vision Gran Turismo", "version": "base", "brand": "HYUNDAI", "year": "2015"}, {"model": "Hyundai N 2025 Vision Gran Turismo Gr.1", "version": "base", "brand": "HYUNDAI", "year": "2015"}, {"model": "Infiniti Concept Vision Gran Turismo", "version": "base", "brand": "INFINITI", "year": "2014"}, {"model": "Jaguar E-Type Coupe", "version": "1.29", "brand": "JAGUAR", "year": "1961"}, {"model": "Jaguar XJ13", "version": "1.11", "brand": "JAGUAR", "year": "1966"}, {"model": "Jaguar XJR-9", "version": "1.19", "brand": "JAGUAR", "year": "1988"}, {"model": "Jaguar F-Type R", "version": "base", "brand": "JAGUAR", "year": "2015"}, {"model": "Jaguar F-Type Gr.3", "version": "base", "brand": "JAGUAR", "year": "2015"}, {"model": "Jaguar F-Type Gr.4", "version": "base", "brand": "JAGUAR", "year": "2015"}, {"model": "KTM X-Bow R", "version": "1.10", "brand": "KTM", "year": "2012"}, {"model": "Lamborghini Miura P400 Bertone Prototype CN.0706", "version": "1.19", "brand": "LAMBORGHINI", "year": "1967"}, {"model": "Lamborghini Countach", "version": "1.10", "brand": "LAMBORGHINI", "year": "1974"}, {"model": "Lamborghini Diablo GT", "version": "1.11", "brand": "LAMBORGHINI", "year": "2000"}, {"model": "Lamborghini Aventador LP700-4", "version": "1.13", "brand": "LAMBORGHINI", "year": "2011"}, {"model": "Lamborghini Veneno", "version": "base", "brand": "LAMBORGHINI", "year": "2013"}, {"model": "Lamborghini Huracan LP610-4", "version": "base", "brand": "LAMBORGHINI", "year": "2015"}, {"model": "Lamborghini Huracan Gr.4", "version": "base", "brand": "LAMBORGHINI", "year": "2015"}, {"model": "Lamborghini Huracan GT3", "version": "base", "brand": "LAMBORGHINI", "year": "2015"}, {"model": "Lancia Delta HF Integrale Evoluzione", "version": "1.25", "brand": "LANCIA", "year": "1991"}, {"model": "Lecus SC430 Petronas Tom\u2019s", "version": "1.29", "brand": "LEXUS", "year": "2008"}, {"model": "Lexus LF-LC GT Vision Gran Turismo", "version": "base", "brand": "LEXUS", "year": "2014"}, {"model": "Lexus RC F", "version": "base", "brand": "LEXUS", "year": "2014"}, {"model": "Lexus RC F Gr.4", "version": "base", "brand": "LEXUS", "year": "2014"}, {"model": "Lexus au TOM\u2019S RC F", "version": "1.15", "brand": "LEXUS", "year": "2016"}, {"model": "Lexus\u00a0RC F GT3 prototype (Emil Frey Racing)", "version": "base", "brand": "LEXUS", "year": "2016"}, {"model": "Lexus LC500", "version": "base", "brand": "LEXUS", "year": "2017"}, {"model": "Lexus RC F GT3 (Emil Frey Racing)", "version": "1.15", "brand": "LEXUS", "year": "2017"}, {"model": "Maserati GranTurismo S", "version": "1.29", "brand": "MASERATI", "year": "2008"}, {"model": "Mazda RX500", "version": "1.28", "brand": "MAZDA", "year": "1970"}, {"model": "Mazda RX-7 GT-X (FC)", "version": "1.15", "brand": "MAZDA", "year": "1990"}, {"model": "Mazda 787B", "version": "1.23", "brand": "MAZDA", "year": "1991"}, {"model": "Mazda RX-7 Spirit R Type A", "version": "1.10", "brand": "MAZDA", "year": "2002"}, {"model": "Mazda LM55 Vision Gran Turismo", "version": "base", "brand": "MAZDA", "year": "2014"}, {"model": "Mazda LM55 Vision Gran Turismo Gr.1", "version": "base", "brand": "MAZDA", "year": "2014"}, {"model": "Mazda Atenza Sedan\u00a0XD L Package", "version": "base", "brand": "MAZDA", "year": "2015"}, {"model": "Mazda Roadster S (ND)", "version": "base", "brand": "MAZDA", "year": "2015"}, {"model": "Mazda Atenza Gr.3", "version": "base", "brand": "MAZDA", "year": "2016"}, {"model": "Mazda Atenza Gr.3 Road Car", "version": "base", "brand": "MAZDA", "year": "2016"}, {"model": "Mazda Atenza Gr.4", "version": "base", "brand": "MAZDA", "year": "2016"}, {"model": "McLaren F1", "version": "1.11", "brand": "MCLAREN", "year": "1994"}, {"model": "McLaren 12C", "version": "base", "brand": "MCLAREN", "year": "2010"}, {"model": "McLaren 650S Coupe", "version": "base", "brand": "MCLAREN", "year": "2014"}, {"model": "McLaren 650S GT3", "version": "base", "brand": "MCLAREN", "year": "2015"}, {"model": "McLaren 650S Gr.4", "version": "base", "brand": "MCLAREN", "year": "2015"}, {"model": "McLaren P1 GTR", "version": "1.31", "brand": "MCLAREN", "year": "2016"}, {"model": "McLaren Ultimate Vision Gran Turismo", "version": "base", "brand": "MCLAREN", "year": "2017"}, {"model": "McLaren Ultimate Vision Gran Turismo Gr.1", "version": "base", "brand": "MCLAREN", "year": "2017"}, {"model": "Sauber C9", "version": "1.19", "brand": "MERCEDES-BENZ", "year": "1989"}, {"model": "Mercedes-Benz SLS AMG", "version": "base", "brand": "MERCEDES-BENZ", "year": "2010"}, {"model": "Mercedes-Benz SLS AMG Gr.4", "version": "base", "brand": "MERCEDES-BENZ", "year": "2010"}, {"model": "Mercedes-Benz SLS AMG GT3", "version": "base", "brand": "MERCEDES-BENZ", "year": "2011"}, {"model": "Mercedes-Benz A 45 AMG 4MATIC", "version": "base", "brand": "MERCEDES-BENZ", "year": "2013"}, {"model": "Mercedes-Benz AMG Vision Gran Turismo", "version": "base", "brand": "MERCEDES-BENZ", "year": "2013"}, {"model": "Mercedes-AMG GT S", "version": "base", "brand": "MERCEDES-BENZ", "year": "2014"}, {"model": "Mercedes-AMG GT S Safety Car", "version": "base", "brand": "MERCEDES-BENZ", "year": "2014"}, {"model": "Mercedes-Benz AMG Vision Gran Turismo Racing Series", "version": "base", "brand": "MERCEDES-BENZ", "year": "2014"}, {"model": "Mercedes-AMG GT3", "version": "base", "brand": "MERCEDES-BENZ", "year": "2015"}, {"model": "Mercedes-AMG F1 W08 EQ Power+", "version": "1.23", "brand": "MERCEDES-BENZ", "year": "2017"}, {"model": "Mercedes-AMG F1 W08 EQ Power+ (Colour Variation)", "version": "1.23", "brand": "MERCEDES-BENZ", "year": "2017"}, {"model": "Mini-Cooper S", "version": "1.25", "brand": "MINI", "year": "1965"}, {"model": "Mini Cooper S", "version": "1.29", "brand": "MINI", "year": "2005"}, {"model": "Mini Clubman Vision Gran Turismo", "version": "base", "brand": "MINI", "year": "2014"}, {"model": "Mitsubishi Lancer Evolution IV GSR", "version": "1.19", "brand": "MITSUBISHI", "year": "1996"}, {"model": "Mitsubishi XR-PHEV EVOLUTION Vision Gran Turismo", "version": "base", "brand": "MITSUBISHI", "year": "2014"}, {"model": "Mitsubishi Lancer Evo X Final Edition", "version": "base", "brand": "MITSUBISHI", "year": "2015"}, {"model": "Mitsubishi Lancer Evo X Final Edition Gr.3", "version": "base", "brand": "MITSUBISHI", "year": "2015"}, {"model": "Mitsubishi Lancer Evo X Final Edition Gr.4", "version": "base", "brand": "MITSUBISHI", "year": "2015"}, {"model": "Mitsubishi Lancer Evo X Final Edition Gr.B", "version": "base", "brand": "MITSUBISHI", "year": "2015"}, {"model": "Mitsubishi Lancer Evo X Final Edition Gr.B Road Car", "version": "base", "brand": "MITSUBISHI", "year": "2015"}, {"model": "Nissan Fairlady Z 300ZX TwinTurbo 2seater (Z32)", "version": "1.28", "brand": "NISSAN", "year": "1989"}, {"model": "Nissan R92CP", "version": "1.19", "brand": "NISSAN", "year": "1992"}, {"model": "Nissan Skyline GT-R V-Spec II (R32)", "version": "1.10", "brand": "NISSAN", "year": "1994"}, {"model": "Nissan Skyline GT-R V-Spec (R33)", "version": "1.15", "brand": "NISSAN", "year": "1997"}, {"model": "Nissan Skyline GT-R V-Spec II N\u00fcr (R34)", "version": "1.10", "brand": "NISSAN", "year": "2002"}, {"model": "Nissan GT-R Xanavi Nismo GT-R", "version": "1.29", "brand": "NISSAN", "year": "2008"}, {"model": "Nissan GT-R Nismo GT3 N24 Schulze Motorsport", "version": "base", "brand": "NISSAN", "year": "2013"}, {"model": "Nissan Concept 2020 Vision Gran Turismo", "version": "base", "brand": "NISSAN", "year": "2014"}, {"model": "Nissan GT-R LM Nismo", "version": "base", "brand": "NISSAN", "year": "2015"}, {"model": "Nissan MOTUL AUTECH GT-R", "version": "1.15", "brand": "NISSAN", "year": "2016"}, {"model": "Nissan GT-R Premium Edition", "version": "base", "brand": "NISSAN", "year": "2017"}, {"model": "Nissan GT-R Safety Car", "version": "base", "brand": "NISSAN", "year": "2017"}, {"model": "Nissan GT-R Gr.4", "version": "base", "brand": "NISSAN", "year": "2017"}, {"model": "Nissan GT-R Gr.B", "version": "base", "brand": "NISSAN", "year": "2017"}, {"model": "Nissan GT-R NISMO", "version": "1.15", "brand": "NISSAN", "year": "2017"}, {"model": "Pagani Zonda R", "version": "1.29", "brand": "PAGANI", "year": "2009"}, {"model": "Peugeot 908 HDi FAP \u2013 Team Peugeot Total", "version": "base", "brand": "PEUGEOT", "year": "2010"}, {"model": "Peugeot 208 GTi by Peugeot Sport", "version": "base", "brand": "PEUGEOT", "year": "2015"}, {"model": "Peugeot RCZ GT line", "version": "base", "brand": "PEUGEOT", "year": "2015"}, {"model": "Peugeot RCZ Gr.3", "version": "base", "brand": "PEUGEOT", "year": "2015"}, {"model": "Peugeot RCZ Gr.3 Road Car", "version": "base", "brand": "PEUGEOT", "year": "2015"}, {"model": "Peugeot RCZ Gr.4", "version": "base", "brand": "PEUGEOT", "year": "2015"}, {"model": "Peugeot RCZ Gr.B", "version": "base", "brand": "PEUGEOT", "year": "2015"}, {"model": "Peugeot Vision Gran Turismo", "version": "base", "brand": "PEUGEOT", "year": "2015"}, {"model": "Peugeot Vision Gran Turismo Gr.3", "version": "base", "brand": "PEUGEOT", "year": "2015"}, {"model": "L500R HYbrid Vision Gran Turismo", "version": "base", "brand": "PEUGEOT", "year": "2017\u00a0Peugeot"}, {"model": "L750R HYbrid Vision Gran Turismo", "version": "base", "brand": "PEUGEOT", "year": "2017\u00a0Peugeot"}, {"model": "XNR Ghia Roadster", "version": "1.28", "brand": "PLYMOUTH", "year": "1960"}, {"model": "Firebird Trans Am", "version": "1.31", "brand": "PONTIAC", "year": "1978"}, {"model": "Porsche 911 GT3 (996)", "version": "1.28", "brand": "PORSCHE", "year": "2001"}, {"model": "Porsche 911 GT3 (997)", "version": "1.28", "brand": "PORSCHE", "year": "2008"}, {"model": "Porsche 911 GT3 RS", "version": "base", "brand": "PORSCHE", "year": "2016"}, {"model": "Porsche Cayman GT4 Clubsport", "version": "base", "brand": "PORSCHE", "year": "2016"}, {"model": "Porsche 911 RSR", "version": "base", "brand": "PORSCHE", "year": "2017"}, {"model": "Porsche 919 Hybrid (Porsche Team)", "version": "base", "brand": "PORSCHE", "year": "2017"}, {"model": "Renault Sport Megane Trophy", "version": "1.19", "brand": "RENAULT SPORT", "year": "2011"}, {"model": "Renault Sport Megane R.S. Trophy", "version": "base", "brand": "RENAULT SPORT", "year": "2011"}, {"model": "Renault Sport Megane Gr.4", "version": "base", "brand": "RENAULT SPORT", "year": "2011"}, {"model": "Renault Sport Clio R.S. 220 EDC Trophy", "version": "base", "brand": "RENAULT SPORT", "year": "2015"}, {"model": "Renault Sport Clio R.S. 220 EDC Trophy", "version": "1.19", "brand": "RENAULT SPORT", "year": "2016"}, {"model": "Renault Sport R.S.01", "version": "base", "brand": "RENAULT SPORT", "year": "2016"}, {"model": "Renault Sport R.S.01 GT3", "version": "base", "brand": "RENAULT SPORT", "year": "2016"}, {"model": "Shelby Cobra Daytona Coupe", "version": "1.25", "brand": "SHELBY", "year": "1964"}, {"model": "Shelby Cobra 427", "version": "1.06", "brand": "SHELBY", "year": "1966"}, {"model": "Subaru Impreza 22B-STI Version", "version": "1.29", "brand": "SUBARU", "year": "1998"}, {"model": "Subaru Viziv GT Vision Gran Turismo", "version": "base", "brand": "SUBARU", "year": "2014"}, {"model": "Subaru WRX STI Type S", "version": "base", "brand": "SUBARU", "year": "2014"}, {"model": "Subaru WRX Gr.3", "version": "base", "brand": "SUBARU", "year": "2014"}, {"model": "Subaru WRX Gr.4", "version": "base", "brand": "SUBARU", "year": "2014"}, {"model": "Subaru WRX Gr.B", "version": "base", "brand": "SUBARU", "year": "2014"}, {"model": "Subaru WRX Gr.B Road Car", "version": "base", "brand": "SUBARU", "year": "2014"}, {"model": "Subaru WRX STI Isle of Man Time Attack Car", "version": "1.13", "brand": "SUBARU", "year": "2016"}, {"model": "Subaru BRZ Falken Tire/Turn 14 Distribution", "version": "1.13", "brand": "SUBARU", "year": "2017"}, {"model": "Subaru BRZ S", "version": "1.19", "brand": "SUBARU", "year": "2017"}, {"model": "Suzuki Swift Sport", "version": "1.10", "brand": "SUZUKI", "year": "2007"}, {"model": "Model S Signature Performance", "version": "1.31", "brand": "TESLA MOTORS", "year": "2012"}, {"model": "Toyota 2000GT", "version": "1.11", "brand": "TOYOTA", "year": "1967"}, {"model": "Toyota MR2 GT-S", "version": "1.13", "brand": "TOYOTA", "year": "1987"}, {"model": "Toyota Supra 3.0 GT Turbo A", "version": "1.13", "brand": "TOYOTA", "year": "1988"}, {"model": "Toyota Supra RZ", "version": "1.11", "brand": "TOYOTA", "year": "1997"}, {"model": "Toyota TS030 Hybrid", "version": "base", "brand": "TOYOTA", "year": "2012"}, {"model": "Toyota FT-1", "version": "1.11", "brand": "TOYOTA", "year": "2014"}, {"model": "Toyota FT-1 Vision Gran Turismo", "version": "base", "brand": "TOYOTA", "year": "2014"}, {"model": "Toyota FT-1 Vision Gran Turismo Gr.3", "version": "base", "brand": "TOYOTA", "year": "2014"}, {"model": "Toyota 86 GT", "version": "base", "brand": "TOYOTA", "year": "2015"}, {"model": "Toyota 86 Gr.4", "version": "base", "brand": "TOYOTA", "year": "2015"}, {"model": "Toyota 86 Gr.B", "version": "base", "brand": "TOYOTA", "year": "2015"}, {"model": "Toyota SF-R", "version": "base", "brand": "TOYOTA", "year": "2015"}, {"model": "Toyota SF-R Racing Concept", "version": "base", "brand": "TOYOTA", "year": "2015"}, {"model": "Toyota 86 GRMN", "version": "base", "brand": "TOYOTA", "year": "2016"}, {"model": "Toyota TS050 Hybrid (Toyota Gazoo Racing)", "version": "base", "brand": "TOYOTA", "year": "2017"}, {"model": "Toyota GR Supra Racing Concept", "version": "1.18", "brand": "TOYOTA", "year": "2018"}, {"model": "Volkswagen Samba Bus Type 2 (T1)", "version": "1.10", "brand": "VOLKSWAGEN", "year": "1962"}, {"model": "Volkswagen 1200", "version": "1.25", "brand": "VOLKSWAGEN", "year": "1966"}, {"model": "Volkswagen Scirocco Gr.4", "version": "base", "brand": "VOLKSWAGEN", "year": "2011"}, {"model": "Volkswagen Golf VII GTI", "version": "base", "brand": "VOLKSWAGEN", "year": "2014"}, {"model": "Volkswagen GTI Roadster Vision Gran Turismo", "version": "base", "brand": "VOLKSWAGEN", "year": "2014"}, {"model": "Volkswagen GTI Supersport Vision Gran Turismo", "version": "base", "brand": "VOLKSWAGEN", "year": "2014"}, {"model": "Volkswagen GTI Vision Gran Turismo Gr.3", "version": "base", "brand": "VOLKSWAGEN", "year": "2014"}, {"model": "Volkswagen Beetle Gr.3", "version": "base", "brand": "VOLKSWAGEN", "year": "2016"}, {"model": "IsoRivolta Zagato Vision Gran Turismo", "version": "1.06", "brand": "ZAGATO", "year": "2017"}]
+[
+{
+"model": "Abarth 1500 Biposto Bertone B.A.T. 1", 
+"version": "1.25", 
+"brand": "ABARTH", 
+"year": "1952"
+}, 
+{
+"model": "Abarth 500", 
+"version": "1.25", 
+"brand": "ABARTH", 
+"year": "2009"
+}, 
+{
+"model": "Alfa Romeo Giulia TZ2 Carrozzata da Zagato CN.AR750106", 
+"version": "1.28", 
+"brand": "ALFA ROMEO", 
+"year": "1965"
+}, 
+{
+"model": "Alfa Romeo Mito 1.4T Sport", 
+"version": "base", 
+"brand": "ALFA ROMEO", 
+"year": "2009"
+}, 
+{
+"model": "Alfa Romeo 4C Launch Edition", 
+"version": "base", 
+"brand": "ALFA ROMEO", 
+"year": "2014"
+}, 
+{
+"model": "Alfa Romeo 4C Gr.3", 
+"version": "base", 
+"brand": "ALFA ROMEO", 
+"year": "2014"
+}, 
+{
+"model": "Alfa Romeo 4C Gr.3 Road Car", 
+"version": "base", 
+"brand": "ALFA ROMEO", 
+"year": "2014"
+}, 
+{
+"model": "Alfa Romeo 4C Gr.4", 
+"version": "base", 
+"brand": "ALFA ROMEO", 
+"year": "2014"
+}, 
+{
+"model": "A110 1600S", 
+"version": "1.13", 
+"brand": "ALPINE", 
+"year": "1972"
+}, 
+{
+"model": "Alpine Vision Gran Turismo", 
+"version": "base", 
+"brand": "ALPINE", 
+"year": "2014"
+}, 
+{
+"model": "Alpine Vision Gran Turismo Gr.1", 
+"version": "base", 
+"brand": "ALPINE", 
+"year": "2014"
+}, 
+{
+"model": "Alpine Vision Gran Turismo Race Mode", 
+"version": "base", 
+"brand": "ALPINE", 
+"year": "2014"
+}, 
+{
+"model": "A110 Premiere Edition", 
+"version": "1.13", 
+"brand": "ALPINE", 
+"year": "2017"
+}, 
+{
+"model": "Aston Martin DB3S CN.1", 
+"version": "1.32", 
+"brand": "ASTON MARTIN", 
+"year": "1953"
+}, 
+{
+"model": "Aston Martin One-77", 
+"version": "base", 
+"brand": "ASTON MARTIN", 
+"year": "2011"
+}, 
+{
+"model": "Aston Martin V12 Vantage GT3", 
+"version": "base", 
+"brand": "ASTON MARTIN", 
+"year": "2012"
+}, 
+{
+"model": "Aston Martin DP-100 Vision Gran Turismo", 
+"version": "base", 
+"brand": "ASTON MARTIN", 
+"year": "2014"
+}, 
+{
+"model": "Aston Martin V8 Vantage S", 
+"version": "base", 
+"brand": "ASTON MARTIN", 
+"year": "2015"
+}, 
+{
+"model": "Aston Martin V8 Vantage Gr.4", 
+"version": "base", 
+"brand": "ASTON MARTIN", 
+"year": "2015"
+}, 
+{
+"model": "Aston Martin Vulcan", 
+"version": "base", 
+"brand": "ASTON MARTIN", 
+"year": "2015"
+}, 
+{
+"model": "Aston Martin DB11", 
+"version": "1.15", 
+"brand": "ASTON MARTIN", 
+"year": "2016"
+}, 
+{
+"model": "Audi quattro S1 Pikes Peak", 
+"version": "base", 
+"brand": "AUDI", 
+"year": "1987"
+}, 
+{
+"model": "Audi TT Coupe 3.2 quattro", 
+"version": "1.38", 
+"brand": "AUDI", 
+"year": "2003"
+}, 
+{
+"model": "Audi R8 4.2 FSI R Tronic", 
+"version": "1.13", 
+"brand": "AUDI", 
+"year": "2007"
+}, 
+{
+"model": "Audi R18 TDI Audi Team Sport Joest", 
+"version": "base", 
+"brand": "AUDI", 
+"year": "2011"
+}, 
+{
+"model": "Audi R18 TDI Le Mans", 
+"version": "base", 
+"brand": "AUDI", 
+"year": "2011"
+}, 
+{
+"model": "Audi R8 LMS (Audi Team Sport WRT)", 
+"version": "base", 
+"brand": "AUDI", 
+"year": "2015"
+}, 
+{
+"model": "Audi TTS Coupe", 
+"version": "base", 
+"brand": "AUDI", 
+"year": "2015"
+}, 
+{
+"model": "R18 e-tron", 
+"version": "1.06", 
+"brand": "AUDI", 
+"year": "2016\u00a0Audi"
+}, 
+{
+"model": "Audi TT Cup", 
+"version": "base", 
+"brand": "AUDI", 
+"year": "2016"
+}, 
+{
+"model": "Audi e-tron Vision Gran Turismo", 
+"version": "1.17", 
+"brand": "AUDI", 
+"year": "2018"
+}, 
+{
+"model": "Audi Vision Gran Turismo", 
+"version": "1.17", 
+"brand": "AUDI", 
+"year": "2018"
+}, 
+{
+"model": "BMW M3 Sport Evolution", 
+"version": "1.15", 
+"brand": "BMW", 
+"year": "1989"
+}, 
+{
+"model": "BMW Z8", 
+"version": "1.32", 
+"brand": "BMW", 
+"year": "2001"
+}, 
+{
+"model": "BMW M3 Coupe", 
+"version": "1.31", 
+"brand": "BMW", 
+"year": "2007"
+}, 
+{
+"model": "BMW M3 GT (BMW Motorsport)", 
+"version": "1.28", 
+"brand": "BMW", 
+"year": "2011"
+}, 
+{
+"model": "BMW Z4 GT3", 
+"version": "base", 
+"brand": "BMW", 
+"year": "2011"
+}, 
+{
+"model": "BMW M4 Coupe", 
+"version": "base", 
+"brand": "BMW", 
+"year": "2014"
+}, 
+{
+"model": "BMW M4 Gr.4", 
+"version": "base", 
+"brand": "BMW", 
+"year": "2014"
+}, 
+{
+"model": "BMW M4 Safety Car", 
+"version": "base", 
+"brand": "BMW", 
+"year": "2014"
+}, 
+{
+"model": "BMW Vision Gran Turismo", 
+"version": "base", 
+"brand": "BMW", 
+"year": "2014"
+}, 
+{
+"model": "BMW i3", 
+"version": "base", 
+"brand": "BMW", 
+"year": "2015"
+}, 
+{
+"model": "BMW M6 GT3", 
+"version": "base", 
+"brand": "BMW", 
+"year": "2016"
+}, 
+{
+"model": "BMW M6 GT3 (Walkenhorst Motorsport)", 
+"version": "base", 
+"brand": "BMW", 
+"year": "2016"
+}, 
+{
+"model": "Bugatti Veyron 16.4", 
+"version": "base", 
+"brand": "BUGATTI", 
+"year": "2013"
+}, 
+{
+"model": "Bugatti Veyron 16.4 Gr.4", 
+"version": "base", 
+"brand": "BUGATTI", 
+"year": "2013"
+}, 
+{
+"model": "Bugatti Vision Gran Turismo", 
+"version": "base", 
+"brand": "BUGATTI", 
+"year": "2015"
+}, 
+{
+"model": "Bugatti Vision Gran Turismo Gr.1", 
+"version": "base", 
+"brand": "BUGATTI", 
+"year": "2015"
+}, 
+{
+"model": "Chaparral 2X Vision Gran Turismo", 
+"version": "base", 
+"brand": "CHAPARRAL", 
+"year": "2014"
+}, 
+{
+"model": "Chevrolet Corvette Sting Ray Sport Coupe (C2)", 
+"version": "1.31", 
+"brand": "CHEVROLET", 
+"year": "1963"
+}, 
+{
+"model": "Chevrolet Corvette Stingray Convertible (C3)", 
+"version": "1.10", 
+"brand": "CHEVROLET", 
+"year": "1969"
+}, 
+{
+"model": "Chevrolet Corvette C7 Stingray", 
+"version": "base", 
+"brand": "CHEVROLET", 
+"year": "2014"
+}, 
+{
+"model": "Chevrolet Corvette C7 Gr.3", 
+"version": "base", 
+"brand": "CHEVROLET", 
+"year": "2014"
+}, 
+{
+"model": "Chevrolet Corvette C7 Gr.3 Road Car", 
+"version": "base", 
+"brand": "CHEVROLET", 
+"year": "2014"
+}, 
+{
+"model": "Chevrolet Corvette C7 Gr.4", 
+"version": "base", 
+"brand": "CHEVROLET", 
+"year": "2014"
+}, 
+{
+"model": "Chevrolet Camaro SS", 
+"version": "base", 
+"brand": "CHEVROLET", 
+"year": "2016"
+}, 
+{
+"model": "GT Road Car", 
+"version": "base", 
+"brand": "CITRO\u00cbN", 
+"year": "2010\u00a0Citro\u00ebn"
+}, 
+{
+"model": "Citro\u00ebn GT Race Car Gr.3", 
+"version": "base", 
+"brand": "CITRO\u00cbN", 
+"year": "2010"
+}, 
+{
+"model": "GT Gr.4", 
+"version": "base", 
+"brand": "CITRO\u00cbN", 
+"year": "2010\u00a0Citro\u00ebn"
+}, 
+{
+"model": "Citro\u00ebn DS3 Racing", 
+"version": "base", 
+"brand": "CITRO\u00cbN", 
+"year": "2015"
+}, 
+{
+"model": "Daihatsu Copen Active Top", 
+"version": "1.23", 
+"brand": "DAIHATSU", 
+"year": "2002"
+}, 
+{
+"model": "Daihatsu Copen RJ Vision Gran Turismo", 
+"version": "base", 
+"brand": "DAIHATSU", 
+"year": "2017"
+}, 
+{
+"model": "De Tomaso Pantera", 
+"version": "1.13", 
+"brand": "DE TOMASO", 
+"year": "1971"
+}, 
+{
+"model": "Dodge Challenger R/T", 
+"version": "1.13", 
+"brand": "DODGE", 
+"year": "1970"
+}, 
+{
+"model": "Dodge Viper GTS Coupe", 
+"version": "1.11", 
+"brand": "DODGE", 
+"year": "2002"
+}, 
+{
+"model": "Dodge Viper SRT10 Coupe", 
+"version": "1.28", 
+"brand": "DODGE", 
+"year": "2006"
+}, 
+{
+"model": "Dodge SRT Viper GTS", 
+"version": "base", 
+"brand": "DODGE", 
+"year": "2013"
+}, 
+{
+"model": "Dodge Viper Gr.4", 
+"version": "base", 
+"brand": "DODGE", 
+"year": "2013"
+}, 
+{
+"model": "Dodge SRT Viper GT3-R", 
+"version": "base", 
+"brand": "DODGE", 
+"year": "2014"
+}, 
+{
+"model": "Dodge Charger SRT Hellcat", 
+"version": "base", 
+"brand": "DODGE", 
+"year": "2015"
+}, 
+{
+"model": "Dodge SRT Tomahawk GTS-R Vision Gran Turismo", 
+"version": "base", 
+"brand": "DODGE", 
+"year": "2015"
+}, 
+{
+"model": "Dodge SRT Tomahawk S Vision Gran Turismo", 
+"version": "base", 
+"brand": "DODGE", 
+"year": "2015"
+}, 
+{
+"model": "Dodge SRT Tomahawk Vision Gran Turismo Gr.1", 
+"version": "base", 
+"brand": "DODGE", 
+"year": "2015"
+}, 
+{
+"model": "Dodge SRT Tomahawk X Vision Gran Turismo", 
+"version": "base", 
+"brand": "DODGE", 
+"year": "2015"
+}, 
+{
+"model": "Ferrari 250 GT Berlinetta passo corto CN.2521", 
+"version": "1.36", 
+"brand": "FERRARI", 
+"year": "1961"
+}, 
+{
+"model": "Ferrari 250 GTO CN.3729GT", 
+"version": "1.23", 
+"brand": "FERRARI", 
+"year": "1962"
+}, 
+{
+"model": "Ferrari 330 P4", 
+"version": "1.11", 
+"brand": "FERRARI", 
+"year": "1967"
+}, 
+{
+"model": "Ferrari Dino 246 GT", 
+"version": "1.32", 
+"brand": "FERRARI", 
+"year": "1971"
+}, 
+{
+"model": "Ferrari 512BB", 
+"version": "1.11", 
+"brand": "FERRARI", 
+"year": "1976"
+}, 
+{
+"model": "Ferrari GTO", 
+"version": "1.29", 
+"brand": "FERRARI", 
+"year": "1984"
+}, 
+{
+"model": "Ferrari F40", 
+"version": "1.10", 
+"brand": "FERRARI", 
+"year": "1992"
+}, 
+{
+"model": "Ferrari F50", 
+"version": "1.31", 
+"brand": "FERRARI", 
+"year": "1995"
+}, 
+{
+"model": "Ferrari Enzo Ferrari", 
+"version": "1.10", 
+"brand": "FERRARI", 
+"year": "2002"
+}, 
+{
+"model": "Ferrari 458 Italia", 
+"version": "base", 
+"brand": "FERRARI", 
+"year": "2009"
+}, 
+{
+"model": "Ferrari 458 Italia Gr.4", 
+"version": "base", 
+"brand": "FERRARI", 
+"year": "2009"
+}, 
+{
+"model": "Ferrari 458 Italia GT3", 
+"version": "base", 
+"brand": "FERRARI", 
+"year": "2013"
+}, 
+{
+"model": "Ferrari LaFerrari", 
+"version": "base", 
+"brand": "FERRARI", 
+"year": "2013"
+}, 
+{
+"model": "FIAT 500 F", 
+"version": "1.19", 
+"brand": "FIAT", 
+"year": "1968"
+}, 
+{
+"model": "Fittipaldi EF7 Vision Gran Turismo by Pininfarina", 
+"version": "base", 
+"brand": "FITTIPALDI MOTORS", 
+"year": "2017"
+}, 
+{
+"model": "Ford GT40 Mark I", 
+"version": "1.15", 
+"brand": "FORD", 
+"year": "1966"
+}, 
+{
+"model": "Ford Mark IV Race Car", 
+"version": "1.25", 
+"brand": "FORD", 
+"year": "1967"
+}, 
+{
+"model": "Ford Mustang Mach 1", 
+"version": "1.13", 
+"brand": "FORD", 
+"year": "1971"
+}, 
+{
+"model": "Ford GT", 
+"version": "1.11", 
+"brand": "FORD", 
+"year": "2006"
+}, 
+{
+"model": "Ford GT LM Spec II Test Car", 
+"version": "1.23", 
+"brand": "FORD", 
+"year": "2007"
+}, 
+{
+"model": "Ford F-150 SVT Raptor", 
+"version": "1.10", 
+"brand": "FORD", 
+"year": "2011"
+}, 
+{
+"model": "Ford Focus Gr.B", 
+"version": "base", 
+"brand": "FORD", 
+"year": "2015"
+}, 
+{
+"model": "Ford Focus ST", 
+"version": "base", 
+"brand": "FORD", 
+"year": "2015"
+}, 
+{
+"model": "Ford Mustang GT Premium Fastback", 
+"version": "base", 
+"brand": "FORD", 
+"year": "2015"
+}, 
+{
+"model": "Ford Mustang GT Gr.3", 
+"version": "base", 
+"brand": "FORD", 
+"year": "2015"
+}, 
+{
+"model": "Ford Mustang GT Gr.3 Road Car", 
+"version": "base", 
+"brand": "FORD", 
+"year": "2015"
+}, 
+{
+"model": "Ford Mustang GT Gr.4", 
+"version": "base", 
+"brand": "FORD", 
+"year": "2015"
+}, 
+{
+"model": "Ford Mustang GT Gr.B", 
+"version": "base", 
+"brand": "FORD", 
+"year": "2015"
+}, 
+{
+"model": "F1500T-A", 
+"version": "1.13", 
+"brand": "GRAN TURISMO", 
+"year": "1985"
+}, 
+{
+"model": "Amuse S2000 GT1 Turbo", 
+"version": "1.25", 
+"brand": "GRAN TURISMO", 
+"year": "2004"
+}, 
+{
+"model": "Gran Turismo Racing Kart 125 Shifter", 
+"version": "base", 
+"brand": "GRAN TURISMO", 
+"year": "2010"
+}, 
+{
+"model": "Eckerts Rod & Custom Mach Forty", 
+"version": "1.15", 
+"brand": "GRAN TURISMO", 
+"year": "2012"
+}, 
+{
+"model": "Chris Holstrom Concepts 1967 Chevy Nova", 
+"version": "1.10", 
+"brand": "GRAN TURISMO", 
+"year": "2013"
+}, 
+{
+"model": "Gran Turismo Red Bull X2014 Junior", 
+"version": "1.15", 
+"brand": "GRAN TURISMO", 
+"year": "2014"
+}, 
+{
+"model": "Gran Turismo Red Bull X2014 Standard", 
+"version": "1.15", 
+"brand": "GRAN TURISMO", 
+"year": "2014"
+}, 
+{
+"model": "GReddy Fugu Z", 
+"version": "1.31", 
+"brand": "GRAN TURISMO", 
+"year": "2015"
+}, 
+{
+"model": "Honda Beat", 
+"version": "1.23", 
+"brand": "HONDA", 
+"year": "1991"
+}, 
+{
+"model": "Honda NSX Type R 1992", 
+"version": "1.28", 
+"brand": "HONDA", 
+"year": "1992"
+}, 
+{
+"model": "Honda Integra Type R (DC2)", 
+"version": "1.32", 
+"brand": "HONDA", 
+"year": "1998"
+}, 
+{
+"model": "Honda NSX Epson NSX", 
+"version": "1.29", 
+"brand": "HONDA", 
+"year": "2008"
+}, 
+{
+"model": "Honda Fit Hybrid", 
+"version": "1.38", 
+"brand": "HONDA", 
+"year": "2014"
+}, 
+{
+"model": "Honda\u00a0Project 2&4 powered by RC213V", 
+"version": "base", 
+"brand": "HONDA", 
+"year": "2015"
+}, 
+{
+"model": "Honda S660", 
+"version": "1.23", 
+"brand": "HONDA", 
+"year": "2015"
+}, 
+{
+"model": "Honda Civic Type R (FK2)", 
+"version": "base", 
+"brand": "HONDA", 
+"year": "2016"
+}, 
+{
+"model": "Honda RAYBRIG NSX CONCEPT-GT", 
+"version": "1.15", 
+"brand": "HONDA", 
+"year": "2016"
+}, 
+{
+"model": "Honda NSX", 
+"version": "base", 
+"brand": "HONDA", 
+"year": "2017"
+}, 
+{
+"model": "Honda NSX Gr.3", 
+"version": "base", 
+"brand": "HONDA", 
+"year": "2017"
+}, 
+{
+"model": "Honda NSX Gr.4", 
+"version": "base", 
+"brand": "HONDA", 
+"year": "2017"
+}, 
+{
+"model": "Honda NSX Gr.B", 
+"version": "base", 
+"brand": "HONDA", 
+"year": "2017"
+}, 
+{
+"model": "Honda\u00a0Sports Vision Gran Turismo", 
+"version": "base", 
+"brand": "HONDA", 
+"year": "2017"
+}, 
+{
+"model": "Hyundai Genesis Coupe 3.8 Track", 
+"version": "base", 
+"brand": "HYUNDAI", 
+"year": "2013"
+}, 
+{
+"model": "Hyundai Genesis Gr.3", 
+"version": "base", 
+"brand": "HYUNDAI", 
+"year": "2013"
+}, 
+{
+"model": "Hyundai Genesis Gr.4", 
+"version": "base", 
+"brand": "HYUNDAI", 
+"year": "2013"
+}, 
+{
+"model": "Hyundai Genesis Gr.B", 
+"version": "base", 
+"brand": "HYUNDAI", 
+"year": "2013"
+}, 
+{
+"model": "Hyundai N 2025 Vision Gran Turismo", 
+"version": "base", 
+"brand": "HYUNDAI", 
+"year": "2015"
+}, 
+{
+"model": "Hyundai N 2025 Vision Gran Turismo Gr.1", 
+"version": "base", 
+"brand": "HYUNDAI", 
+"year": "2015"
+}, 
+{
+"model": "Infiniti Concept Vision Gran Turismo", 
+"version": "base", 
+"brand": "INFINITI", 
+"year": "2014"
+}, 
+{
+"model": "Jaguar E-Type Coupe", 
+"version": "1.29", 
+"brand": "JAGUAR", 
+"year": "1961"
+}, 
+{
+"model": "Jaguar XJ13", 
+"version": "1.11", 
+"brand": "JAGUAR", 
+"year": "1966"
+}, 
+{
+"model": "Jaguar XJR-9", 
+"version": "1.19", 
+"brand": "JAGUAR", 
+"year": "1988"
+}, 
+{
+"model": "Jaguar F-Type R", 
+"version": "base", 
+"brand": "JAGUAR", 
+"year": "2015"
+}, 
+{
+"model": "Jaguar F-Type Gr.3", 
+"version": "base", 
+"brand": "JAGUAR", 
+"year": "2015"
+}, 
+{
+"model": "Jaguar F-Type Gr.4", 
+"version": "base", 
+"brand": "JAGUAR", 
+"year": "2015"
+}, 
+{
+"model": "KTM X-Bow R", 
+"version": "1.10", 
+"brand": "KTM", 
+"year": "2012"
+}, 
+{
+"model": "Lamborghini Miura P400 Bertone Prototype CN.0706", 
+"version": "1.19", 
+"brand": "LAMBORGHINI", 
+"year": "1967"
+}, 
+{
+"model": "Lamborghini Countach LP400", 
+"version": "1.10", 
+"brand": "LAMBORGHINI", 
+"year": "1974"
+}, 
+{
+"model": "Lamborghini Countach 25th Anniversary", 
+"version": "1.36", 
+"brand": "LAMBORGHINI", 
+"year": "1988"
+}, 
+{
+"model": "Lamborghini Diablo GT", 
+"version": "1.11", 
+"brand": "LAMBORGHINI", 
+"year": "2000"
+}, 
+{
+"model": "Lamborghini Aventador LP700-4", 
+"version": "1.13", 
+"brand": "LAMBORGHINI", 
+"year": "2011"
+}, 
+{
+"model": "Lamborghini Veneno", 
+"version": "base", 
+"brand": "LAMBORGHINI", 
+"year": "2013"
+}, 
+{
+"model": "Lamborghini Huracan LP610-4", 
+"version": "base", 
+"brand": "LAMBORGHINI", 
+"year": "2015"
+}, 
+{
+"model": "Lamborghini Huracan Gr.4", 
+"version": "base", 
+"brand": "LAMBORGHINI", 
+"year": "2015"
+}, 
+{
+"model": "Lamborghini Huracan GT3", 
+"version": "base", 
+"brand": "LAMBORGHINI", 
+"year": "2015"
+}, 
+{
+"model": "Lancia Stratos", 
+"version": "1.36", 
+"brand": "LANCIA", 
+"year": "1973"
+}, 
+{
+"model": "Lancia Delta HF Integrale Evoluzione", 
+"version": "1.25", 
+"brand": "LANCIA", 
+"year": "1991"
+}, 
+{
+"model": "Lecus SC430 Petronas Tom\u2019s", 
+"version": "1.29", 
+"brand": "LEXUS", 
+"year": "2008"
+}, 
+{
+"model": "Lexus LF-LC GT Vision Gran Turismo", 
+"version": "base", 
+"brand": "LEXUS", 
+"year": "2014"
+}, 
+{
+"model": "Lexus RC F", 
+"version": "base", 
+"brand": "LEXUS", 
+"year": "2014"
+}, 
+{
+"model": "Lexus RC F Gr.4", 
+"version": "base", 
+"brand": "LEXUS", 
+"year": "2014"
+}, 
+{
+"model": "Lexus au TOM\u2019S RC F", 
+"version": "1.15", 
+"brand": "LEXUS", 
+"year": "2016"
+}, 
+{
+"model": "Lexus\u00a0RC F GT3 prototype (Emil Frey Racing)", 
+"version": "base", 
+"brand": "LEXUS", 
+"year": "2016"
+}, 
+{
+"model": "Lexus LC500", 
+"version": "base", 
+"brand": "LEXUS", 
+"year": "2017"
+}, 
+{
+"model": "Lexus RC F GT3 (Emil Frey Racing)", 
+"version": "1.15", 
+"brand": "LEXUS", 
+"year": "2017"
+}, 
+{
+"model": "Maserati GranTurismo S", 
+"version": "1.29", 
+"brand": "MASERATI", 
+"year": "2008"
+}, 
+{
+"model": "Mazda RX500", 
+"version": "1.28", 
+"brand": "MAZDA", 
+"year": "1970"
+}, 
+{
+"model": "Mazda Eunos Roadster (NA Special Package)", 
+"version": "1.34", 
+"brand": "MAZDA", 
+"year": "1989"
+}, 
+{
+"model": "Mazda RX-7 GT-X (FC)", 
+"version": "1.15", 
+"brand": "MAZDA", 
+"year": "1990"
+}, 
+{
+"model": "Mazda 787B", 
+"version": "1.23", 
+"brand": "MAZDA", 
+"year": "1991"
+}, 
+{
+"model": "Mazda RX-7 Spirit R Type A", 
+"version": "1.10", 
+"brand": "MAZDA", 
+"year": "2002"
+}, 
+{
+"model": "Mazda LM55 Vision Gran Turismo", 
+"version": "base", 
+"brand": "MAZDA", 
+"year": "2014"
+}, 
+{
+"model": "Mazda LM55 Vision Gran Turismo Gr.1", 
+"version": "base", 
+"brand": "MAZDA", 
+"year": "2014"
+}, 
+{
+"model": "Mazda Atenza Sedan\u00a0XD L Package", 
+"version": "base", 
+"brand": "MAZDA", 
+"year": "2015"
+}, 
+{
+"model": "Mazda Roadster S (ND)", 
+"version": "base", 
+"brand": "MAZDA", 
+"year": "2015"
+}, 
+{
+"model": "Mazda Atenza Gr.3", 
+"version": "base", 
+"brand": "MAZDA", 
+"year": "2016"
+}, 
+{
+"model": "Mazda Atenza Gr.3 Road Car", 
+"version": "base", 
+"brand": "MAZDA", 
+"year": "2016"
+}, 
+{
+"model": "Mazda Atenza Gr.4", 
+"version": "base", 
+"brand": "MAZDA", 
+"year": "2016"
+}, 
+{
+"model": "McLaren F1", 
+"version": "1.11", 
+"brand": "MCLAREN", 
+"year": "1994"
+}, 
+{
+"model": "McLaren F1 GTR BMW Kokusai Kaihatsu UK Racing", 
+"version": "1.34", 
+"brand": "MCLAREN", 
+"year": "1995"
+}, 
+{
+"model": "McLaren 12C", 
+"version": "base", 
+"brand": "MCLAREN", 
+"year": "2010"
+}, 
+{
+"model": "McLaren 650S Coupe", 
+"version": "base", 
+"brand": "MCLAREN", 
+"year": "2014"
+}, 
+{
+"model": "McLaren 650S GT3", 
+"version": "base", 
+"brand": "MCLAREN", 
+"year": "2015"
+}, 
+{
+"model": "McLaren 650S Gr.4", 
+"version": "base", 
+"brand": "MCLAREN", 
+"year": "2015"
+}, 
+{
+"model": "McLaren P1 GTR", 
+"version": "1.31", 
+"brand": "MCLAREN", 
+"year": "2016"
+}, 
+{
+"model": "McLaren Ultimate Vision Gran Turismo", 
+"version": "base", 
+"brand": "MCLAREN", 
+"year": "2017"
+}, 
+{
+"model": "McLaren Ultimate Vision Gran Turismo Gr.1", 
+"version": "base", 
+"brand": "MCLAREN", 
+"year": "2017"
+}, 
+{
+"model": "Sauber C9", 
+"version": "1.19", 
+"brand": "MERCEDES-BENZ", 
+"year": "1989"
+}, 
+{
+"model": "Mercedes-Benz McLaren SLR", 
+"version": "1.34", 
+"brand": "MERCEDES-BENZ", 
+"year": "2009"
+}, 
+{
+"model": "Mercedes-Benz SLS AMG", 
+"version": "base", 
+"brand": "MERCEDES-BENZ", 
+"year": "2010"
+}, 
+{
+"model": "Mercedes-Benz SLS AMG Gr.4", 
+"version": "base", 
+"brand": "MERCEDES-BENZ", 
+"year": "2010"
+}, 
+{
+"model": "Mercedes-Benz SLS AMG GT3", 
+"version": "base", 
+"brand": "MERCEDES-BENZ", 
+"year": "2011"
+}, 
+{
+"model": "Mercedes-Benz A 45 AMG 4MATIC", 
+"version": "base", 
+"brand": "MERCEDES-BENZ", 
+"year": "2013"
+}, 
+{
+"model": "Mercedes-Benz AMG Vision Gran Turismo", 
+"version": "base", 
+"brand": "MERCEDES-BENZ", 
+"year": "2013"
+}, 
+{
+"model": "Mercedes-AMG GT S", 
+"version": "base", 
+"brand": "MERCEDES-BENZ", 
+"year": "2014"
+}, 
+{
+"model": "Mercedes-AMG GT S Safety Car", 
+"version": "base", 
+"brand": "MERCEDES-BENZ", 
+"year": "2014"
+}, 
+{
+"model": "Mercedes-Benz AMG Vision Gran Turismo Racing Series", 
+"version": "base", 
+"brand": "MERCEDES-BENZ", 
+"year": "2014"
+}, 
+{
+"model": "Mercedes-AMG GT3", 
+"version": "base", 
+"brand": "MERCEDES-BENZ", 
+"year": "2015"
+}, 
+{
+"model": "Mercedes-AMG F1 W08 EQ Power+", 
+"version": "1.23", 
+"brand": "MERCEDES-BENZ", 
+"year": "2017"
+}, 
+{
+"model": "Mercedes-AMG F1 W08 EQ Power+ (Colour Variation)", 
+"version": "1.23", 
+"brand": "MERCEDES-BENZ", 
+"year": "2017"
+}, 
+{
+"model": "Mini-Cooper S", 
+"version": "1.25", 
+"brand": "MINI", 
+"year": "1965"
+}, 
+{
+"model": "Mini Cooper S", 
+"version": "1.29", 
+"brand": "MINI", 
+"year": "2005"
+}, 
+{
+"model": "Mini Clubman Vision Gran Turismo", 
+"version": "base", 
+"brand": "MINI", 
+"year": "2014"
+}, 
+{
+"model": "Mitsubishi Lancer Evolution IV GSR", 
+"version": "1.19", 
+"brand": "MITSUBISHI", 
+"year": "1996"
+}, 
+{
+"model": "Mitsubishi XR-PHEV EVOLUTION Vision Gran Turismo", 
+"version": "base", 
+"brand": "MITSUBISHI", 
+"year": "2014"
+}, 
+{
+"model": "Mitsubishi Lancer Evo X Final Edition", 
+"version": "base", 
+"brand": "MITSUBISHI", 
+"year": "2015"
+}, 
+{
+"model": "Mitsubishi Lancer Evo X Final Edition Gr.3", 
+"version": "base", 
+"brand": "MITSUBISHI", 
+"year": "2015"
+}, 
+{
+"model": "Mitsubishi Lancer Evo X Final Edition Gr.4", 
+"version": "base", 
+"brand": "MITSUBISHI", 
+"year": "2015"
+}, 
+{
+"model": "Mitsubishi Lancer Evo X Final Edition Gr.B", 
+"version": "base", 
+"brand": "MITSUBISHI", 
+"year": "2015"
+}, 
+{
+"model": "Mitsubishi Lancer Evo X Final Edition Gr.B Road Car", 
+"version": "base", 
+"brand": "MITSUBISHI", 
+"year": "2015"
+}, 
+{
+"model": "Nissan Fairlady Z 300ZX TwinTurbo 2seater (Z32)", 
+"version": "1.28", 
+"brand": "NISSAN", 
+"year": "1989"
+}, 
+{
+"model": "Nissan R92CP", 
+"version": "1.19", 
+"brand": "NISSAN", 
+"year": "1992"
+}, 
+{
+"model": "Nissan Skyline GT-R V-Spec II (R32)", 
+"version": "1.10", 
+"brand": "NISSAN", 
+"year": "1994"
+}, 
+{
+"model": "Nissan Skyline GT-R V-Spec (R33)", 
+"version": "1.15", 
+"brand": "NISSAN", 
+"year": "1997"
+}, 
+{
+"model": "Nissan Skyline GT-R V-Spec II N\u00fcr (R34)", 
+"version": "1.10", 
+"brand": "NISSAN", 
+"year": "2002"
+}, 
+{
+"model": "Nissan Fairlady Z Version S (Z33)", 
+"version": "1.32", 
+"brand": "NISSAN", 
+"year": "2007"
+}, 
+{
+"model": "Nissan GT-R Xanavi Nismo GT-R", 
+"version": "1.29", 
+"brand": "NISSAN", 
+"year": "2008"
+}, 
+{
+"model": "Nissan GT-R Nismo GT3 N24 Schulze Motorsport", 
+"version": "base", 
+"brand": "NISSAN", 
+"year": "2013"
+}, 
+{
+"model": "Nissan Concept 2020 Vision Gran Turismo", 
+"version": "base", 
+"brand": "NISSAN", 
+"year": "2014"
+}, 
+{
+"model": "Nissan GT-R LM Nismo", 
+"version": "base", 
+"brand": "NISSAN", 
+"year": "2015"
+}, 
+{
+"model": "Nissan MOTUL AUTECH GT-R", 
+"version": "1.15", 
+"brand": "NISSAN", 
+"year": "2016"
+}, 
+{
+"model": "Nissan GT-R Premium Edition", 
+"version": "base", 
+"brand": "NISSAN", 
+"year": "2017"
+}, 
+{
+"model": "Nissan GT-R Safety Car", 
+"version": "base", 
+"brand": "NISSAN", 
+"year": "2017"
+}, 
+{
+"model": "Nissan GT-R Gr.4", 
+"version": "base", 
+"brand": "NISSAN", 
+"year": "2017"
+}, 
+{
+"model": "Nissan GT-R Gr.B", 
+"version": "base", 
+"brand": "NISSAN", 
+"year": "2017"
+}, 
+{
+"model": "Nissan GT-R NISMO", 
+"version": "1.15", 
+"brand": "NISSAN", 
+"year": "2017"
+}, 
+{
+"model": "Pagani Zonda R", 
+"version": "1.29", 
+"brand": "PAGANI", 
+"year": "2009"
+}, 
+{
+"model": "Pagani Huayra", 
+"version": "1.34", 
+"brand": "PAGANI", 
+"year": "2013"
+}, 
+{
+"model": "Peugeot 908 HDi FAP \u2013 Team Peugeot Total", 
+"version": "base", 
+"brand": "PEUGEOT", 
+"year": "2010"
+}, 
+{
+"model": "Peugeot 208 GTi by Peugeot Sport", 
+"version": "base", 
+"brand": "PEUGEOT", 
+"year": "2015"
+}, 
+{
+"model": "Peugeot RCZ GT line", 
+"version": "base", 
+"brand": "PEUGEOT", 
+"year": "2015"
+}, 
+{
+"model": "Peugeot RCZ Gr.3", 
+"version": "base", 
+"brand": "PEUGEOT", 
+"year": "2015"
+}, 
+{
+"model": "Peugeot RCZ Gr.3 Road Car", 
+"version": "base", 
+"brand": "PEUGEOT", 
+"year": "2015"
+}, 
+{
+"model": "Peugeot RCZ Gr.4", 
+"version": "base", 
+"brand": "PEUGEOT", 
+"year": "2015"
+}, 
+{
+"model": "Peugeot RCZ Gr.B", 
+"version": "base", 
+"brand": "PEUGEOT", 
+"year": "2015"
+}, 
+{
+"model": "Peugeot Vision Gran Turismo", 
+"version": "base", 
+"brand": "PEUGEOT", 
+"year": "2015"
+}, 
+{
+"model": "Peugeot Vision Gran Turismo Gr.3", 
+"version": "base", 
+"brand": "PEUGEOT", 
+"year": "2015"
+}, 
+{
+"model": "L500R HYbrid Vision Gran Turismo", 
+"version": "base", 
+"brand": "PEUGEOT", 
+"year": "2017\u00a0Peugeot"
+}, 
+{
+"model": "L750R HYbrid Vision Gran Turismo", 
+"version": "base", 
+"brand": "PEUGEOT", 
+"year": "2017\u00a0Peugeot"
+}, 
+{
+"model": "XNR Ghia Roadster", 
+"version": "1.28", 
+"brand": "PLYMOUTH", 
+"year": "1960"
+}, 
+{
+"model": "Firebird Trans Am", 
+"version": "1.31", 
+"brand": "PONTIAC", 
+"year": "1978"
+}, 
+{
+"model": "Porsche 356 A/1500 GS GT Carrera Speedster", 
+"version": "1.32", 
+"brand": "PORSCHE", 
+"year": "1956"
+}, 
+{
+"model": "Porsche 962C", 
+"version": "1.38", 
+"brand": "PORSCHE", 
+"year": "1988"
+}, 
+{
+"model": "Porsche 911 GT3 (996)", 
+"version": "1.28", 
+"brand": "PORSCHE", 
+"year": "2001"
+}, 
+{
+"model": "Porsche 911 GT3 (997)", 
+"version": "1.28", 
+"brand": "PORSCHE", 
+"year": "2008"
+}, 
+{
+"model": "Porsche 911 GT3 RS", 
+"version": "base", 
+"brand": "PORSCHE", 
+"year": "2016"
+}, 
+{
+"model": "Porsche Cayman GT4 Clubsport", 
+"version": "base", 
+"brand": "PORSCHE", 
+"year": "2016"
+}, 
+{
+"model": "Porsche 911 RSR", 
+"version": "base", 
+"brand": "PORSCHE", 
+"year": "2017"
+}, 
+{
+"model": "Porsche 919 Hybrid (Porsche Team)", 
+"version": "base", 
+"brand": "PORSCHE", 
+"year": "2017"
+}, 
+{
+"model": "Renault R8 Gordini", 
+"version": "1.38", 
+"brand": "RENAULT", 
+"year": "1966"
+}, 
+{
+"model": "Renault Sport Megane Trophy", 
+"version": "1.19", 
+"brand": "RENAULT SPORT", 
+"year": "2011"
+}, 
+{
+"model": "Renault Sport Megane R.S. Trophy", 
+"version": "base", 
+"brand": "RENAULT SPORT", 
+"year": "2011"
+}, 
+{
+"model": "Renault Sport Megane Gr.4", 
+"version": "base", 
+"brand": "RENAULT SPORT", 
+"year": "2011"
+}, 
+{
+"model": "Renault Sport Clio R.S. 220 EDC Trophy", 
+"version": "base", 
+"brand": "RENAULT SPORT", 
+"year": "2015"
+}, 
+{
+"model": "Renault Sport Clio R.S. 220 EDC Trophy", 
+"version": "1.19", 
+"brand": "RENAULT SPORT", 
+"year": "2016"
+}, 
+{
+"model": "Renault Sport R.S.01", 
+"version": "base", 
+"brand": "RENAULT SPORT", 
+"year": "2016"
+}, 
+{
+"model": "Renault Sport R.S.01 GT3", 
+"version": "base", 
+"brand": "RENAULT SPORT", 
+"year": "2016"
+}, 
+{
+"model": "Shelby Cobra Daytona Coupe", 
+"version": "1.25", 
+"brand": "SHELBY", 
+"year": "1964"
+}, 
+{
+"model": "Shelby G.T.350", 
+"version": "1.32", 
+"brand": "SHELBY", 
+"year": "1965"
+}, 
+{
+"model": "Shelby Cobra 427", 
+"version": "1.06", 
+"brand": "SHELBY", 
+"year": "1966"
+}, 
+{
+"model": "Subaru Impreza 22B-STI Version", 
+"version": "1.29", 
+"brand": "SUBARU", 
+"year": "1998"
+}, 
+{
+"model": "Subaru Viziv GT Vision Gran Turismo", 
+"version": "base", 
+"brand": "SUBARU", 
+"year": "2014"
+}, 
+{
+"model": "Subaru WRX STI Type S", 
+"version": "base", 
+"brand": "SUBARU", 
+"year": "2014"
+}, 
+{
+"model": "Subaru WRX Gr.3", 
+"version": "base", 
+"brand": "SUBARU", 
+"year": "2014"
+}, 
+{
+"model": "Subaru WRX Gr.4", 
+"version": "base", 
+"brand": "SUBARU", 
+"year": "2014"
+}, 
+{
+"model": "Subaru WRX Gr.B", 
+"version": "base", 
+"brand": "SUBARU", 
+"year": "2014"
+}, 
+{
+"model": "Subaru WRX Gr.B Road Car", 
+"version": "base", 
+"brand": "SUBARU", 
+"year": "2014"
+}, 
+{
+"model": "Subaru WRX STI Isle of Man Time Attack Car", 
+"version": "1.13", 
+"brand": "SUBARU", 
+"year": "2016"
+}, 
+{
+"model": "Subaru BRZ Falken Tire/Turn 14 Distribution", 
+"version": "1.13", 
+"brand": "SUBARU", 
+"year": "2017"
+}, 
+{
+"model": "Subaru BRZ S", 
+"version": "1.19", 
+"brand": "SUBARU", 
+"year": "2017"
+}, 
+{
+"model": "Super Formula Dallara SF19 Super Formula / Honda", 
+"version": "1.36", 
+"brand": "SUPER FORMULA", 
+"year": "2019"
+}, 
+{
+"model": "Super Formula Dallara SF19 Super Formula / Toyota", 
+"version": "1.36", 
+"brand": "SUPER FORMULA", 
+"year": "2019"
+}, 
+{
+"model": "Suzuki Swift Sport", 
+"version": "1.10", 
+"brand": "SUZUKI", 
+"year": "2007"
+}, 
+{
+"model": "Model S Signature Performance", 
+"version": "1.31", 
+"brand": "TESLA MOTORS", 
+"year": "2012"
+}, 
+{
+"model": "Toyota 2000GT", 
+"version": "1.11", 
+"brand": "TOYOTA", 
+"year": "1967"
+}, 
+{
+"model": "Toyota MR2 GT-S", 
+"version": "1.13", 
+"brand": "TOYOTA", 
+"year": "1987"
+}, 
+{
+"model": "Toyota Sprinter Trueno 3door 1600GT APEX (AE86)", 
+"version": "1.38", 
+"brand": "TOYOTA", 
+"year": "1983"
+}, 
+{
+"model": "Toyota Supra 3.0 GT Turbo A", 
+"version": "1.13", 
+"brand": "TOYOTA", 
+"year": "1988"
+}, 
+{
+"model": "Toyota Supra RZ", 
+"version": "1.11", 
+"brand": "TOYOTA", 
+"year": "1997"
+}, 
+{
+"model": "Toyota TS030 Hybrid", 
+"version": "base", 
+"brand": "TOYOTA", 
+"year": "2012"
+}, 
+{
+"model": "Toyota FT-1", 
+"version": "1.11", 
+"brand": "TOYOTA", 
+"year": "2014"
+}, 
+{
+"model": "Toyota FT-1 Vision Gran Turismo", 
+"version": "base", 
+"brand": "TOYOTA", 
+"year": "2014"
+}, 
+{
+"model": "Toyota FT-1 Vision Gran Turismo Gr.3", 
+"version": "base", 
+"brand": "TOYOTA", 
+"year": "2014"
+}, 
+{
+"model": "Toyota 86 GT", 
+"version": "base", 
+"brand": "TOYOTA", 
+"year": "2015"
+}, 
+{
+"model": "Toyota 86 Gr.4", 
+"version": "base", 
+"brand": "TOYOTA", 
+"year": "2015"
+}, 
+{
+"model": "Toyota 86 Gr.B", 
+"version": "base", 
+"brand": "TOYOTA", 
+"year": "2015"
+}, 
+{
+"model": "Toyota SF-R", 
+"version": "base", 
+"brand": "TOYOTA", 
+"year": "2015"
+}, 
+{
+"model": "Toyota SF-R Racing Concept", 
+"version": "base", 
+"brand": "TOYOTA", 
+"year": "2015"
+}, 
+{
+"model": "Toyota 86 GRMN", 
+"version": "base", 
+"brand": "TOYOTA", 
+"year": "2016"
+}, 
+{
+"model": "Toyota TS050 Hybrid (Toyota Gazoo Racing)", 
+"version": "base", 
+"brand": "TOYOTA", 
+"year": "2017"
+}, 
+{
+"model": "Toyota GR Supra Racing Concept", 
+"version": "1.18", 
+"brand": "TOYOTA", 
+"year": "2018"
+}, 
+{
+"model": "Toyota GR Supra RZ", 
+"version": "1.34", 
+"brand": "TOYOTA", 
+"year": "2019"
+}, 
+{
+"model": "TVR Tuscan Speed 6", 
+"version": "1.32", 
+"brand": "TVR", 
+"year": "2000"
+}, 
+{
+"model": "Volkswagen Samba Bus Type 2 (T1)", 
+"version": "1.10", 
+"brand": "VOLKSWAGEN", 
+"year": "1962"
+}, 
+{
+"model": "Volkswagen 1200", 
+"version": "1.25", 
+"brand": "VOLKSWAGEN", 
+"year": "1966"
+}, 
+{
+"model": "Volkswagen Scirocco Gr.4", 
+"version": "base", 
+"brand": "VOLKSWAGEN", 
+"year": "2011"
+}, 
+{
+"model": "Volkswagen Golf VII GTI", 
+"version": "base", 
+"brand": "VOLKSWAGEN", 
+"year": "2014"
+}, 
+{
+"model": "Volkswagen GTI Roadster Vision Gran Turismo", 
+"version": "base", 
+"brand": "VOLKSWAGEN", 
+"year": "2014"
+}, 
+{
+"model": "Volkswagen GTI Supersport Vision Gran Turismo", 
+"version": "base", 
+"brand": "VOLKSWAGEN", 
+"year": "2014"
+}, 
+{
+"model": "Volkswagen GTI Vision Gran Turismo Gr.3", 
+"version": "base", 
+"brand": "VOLKSWAGEN", 
+"year": "2014"
+}, 
+{
+"model": "Volkswagen Beetle Gr.3", 
+"version": "base", 
+"brand": "VOLKSWAGEN", 
+"year": "2016"
+}, 
+{
+"model": "IsoRivolta Zagato Vision Gran Turismo", 
+"version": "1.06", 
+"brand": "ZAGATO", 
+"year": "2017"
+}
+]
