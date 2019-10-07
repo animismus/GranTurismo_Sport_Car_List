@@ -49,6 +49,7 @@ BUGATTI;Bugatti Vision Gran Turismo;base;2015
 BUGATTI;Bugatti Vision Gran Turismo Gr.1;base;2015
 CHAPARRAL;Chaparral 2X Vision Gran Turismo;base;2014
 CHEVROLET;Chevrolet Corvette Sting Ray Sport Coupe (C2);1.31;1963
+CHEVROLET;Chevrolet Camaro Z28;1.40;1969
 CHEVROLET;Chevrolet Corvette Stingray Convertible (C3);1.10;1969
 CHEVROLET;Chevrolet Corvette C7 Stingray;base;2014
 CHEVROLET;Chevrolet Corvette C7 Gr.3;base;2014
@@ -109,8 +110,11 @@ GRAN TURISMO;Chris Holstrom Concepts 1967 Chevy Nova;1.10;2013
 GRAN TURISMO;Gran Turismo Red Bull X2014 Junior;1.15;2014
 GRAN TURISMO;Gran Turismo Red Bull X2014 Standard;1.15;2014
 GRAN TURISMO;GReddy Fugu Z;1.31;2015
+GRAN TURISMO;Gran Turismo Red Bull X2019 Competition;1.40;2019
+HONDA;Honda S800;1.41;1966
 HONDA;Honda Beat;1.23;1991
 HONDA;Honda NSX Type R 1992;1.28;1992
+HONDA;Honda Civic Type R (EK);1.41;1998
 HONDA;Honda Integra Type R (DC2);1.32;1998
 HONDA;Honda NSX Epson NSX;1.29;2008
 HONDA;Honda Fit Hybrid;1.38;2014
@@ -130,6 +134,7 @@ HYUNDAI;Hyundai Genesis Gr.B;base;2013
 HYUNDAI;Hyundai N 2025 Vision Gran Turismo;base;2015
 HYUNDAI;Hyundai N 2025 Vision Gran Turismo Gr.1;base;2015
 INFINITI;Infiniti Concept Vision Gran Turismo;base;2014
+JAGUAR;Jaguar D-Type;1.41;1954
 JAGUAR;Jaguar E-Type Coupe;1.29;1961
 JAGUAR;Jaguar XJ13;1.11;1966
 JAGUAR;Jaguar XJR-9;1.19;1988
@@ -161,6 +166,7 @@ MAZDA;Mazda RX500;1.28;1970
 MAZDA;Mazda Eunos Roadster (NA Special Package);1.34;1989
 MAZDA;Mazda RX-7 GT-X (FC);1.15;1990
 MAZDA;Mazda 787B;1.23;1991
+MAZDA;Mazda Roadster Touring Car;1.41;1991
 MAZDA;Mazda RX-7 Spirit R Type A;1.10;2002
 MAZDA;Mazda LM55 Vision Gran Turismo;base;2014
 MAZDA;Mazda LM55 Vision Gran Turismo Gr.1;base;2014
@@ -233,6 +239,7 @@ PEUGEOT;L750R HYbrid Vision Gran Turismo;base;2017 Peugeot
 PLYMOUTH;XNR Ghia Roadster;1.28;1960
 PONTIAC;Firebird Trans Am;1.31;1978
 PORSCHE;Porsche 356 A/1500 GS GT Carrera Speedster;1.32;1956
+PORSCHE;Porsche 911 Turbo;1.41;1981
 PORSCHE;Porsche 962C;1.38;1988
 PORSCHE;Porsche 911 GT3 (996);1.28;2001
 PORSCHE;Porsche 911 GT3 (997);1.28;2008
@@ -241,6 +248,7 @@ PORSCHE;Porsche Cayman GT4 Clubsport;base;2016
 PORSCHE;Porsche 911 RSR;base;2017
 PORSCHE;Porsche 919 Hybrid (Porsche Team);base;2017
 RENAULT;Renault R8 Gordini;1.38;1966
+RENAULT SPORT;Renault Sport Clio V6 24v;1.40;2000
 RENAULT SPORT;Renault Sport Megane Trophy;1.19;2011
 RENAULT SPORT;Renault Sport Megane R.S. Trophy;base;2011
 RENAULT SPORT;Renault Sport Megane Gr.4;base;2011
@@ -265,6 +273,7 @@ SUPER FORMULA;Super Formula Dallara SF19 Super Formula / Honda;1.36;2019
 SUPER FORMULA;Super Formula Dallara SF19 Super Formula / Toyota;1.36;2019
 SUZUKI;Suzuki Swift Sport;1.10;2007
 TESLA MOTORS;Model S Signature Performance;1.31;2012
+TOYOTA;Toyota Sports 800;1.40;1965
 TOYOTA;Toyota 2000GT;1.11;1967
 TOYOTA;Toyota MR2 GT-S;1.13;1987
 TOYOTA;Toyota Sprinter Trueno 3door 1600GT APEX (AE86);1.38;1983
@@ -283,6 +292,7 @@ TOYOTA;Toyota 86 GRMN;base;2016
 TOYOTA;Toyota TS050 Hybrid (Toyota Gazoo Racing);base;2017
 TOYOTA;Toyota GR Supra Racing Concept;1.18;2018
 TOYOTA;Toyota GR Supra RZ;1.34;2019
+TOYOTA;Toyota Tundra TRD Pro;1.40;2019
 TVR;TVR Tuscan Speed 6;1.32;2000
 VOLKSWAGEN;Volkswagen Samba Bus Type 2 (T1);1.10;1962
 VOLKSWAGEN;Volkswagen 1200;1.25;1966
