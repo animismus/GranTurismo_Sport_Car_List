@@ -21,8 +21,9 @@ The guys at GT Planet have a [great list](https://www.gtplanet.net/gran-turismo-
 
 ##### - Log
 
-**07/10/2019:** 10 Cars added to the list from  game updates 1.40 and 1.41  
-**02/05/2019:** 23 Cars added to the list from  game updates 1.32, 1.34, 1.36, 1.38  
+**08/03/2020:** 29 Cars added to the list from game updates 1.43, 1.45, 1.47, 1.50, 1.53, 1.56  
+**07/10/2019:** 10 Cars added to the list from game updates 1.40 and 1.41  
+**02/05/2019:** 23 Cars added to the list from game updates 1.32, 1.34, 1.36, 1.38  
 **07/12/2018:** December 05, 2018 – New cars in 1.31 Update added, v1.29 to v1.31 csv and json are also available  
 **08/11/2018:** November 06, 2018 — New cars in 1.29 Update added  
 **08/11/2018:** First real commit  

@@ -13,6 +13,7 @@ ALPINE;Alpine Vision Gran Turismo Gr.1;base;2014
 ALPINE;Alpine Vision Gran Turismo Race Mode;base;2014
 ALPINE;A110 Premiere Edition;1.13;2017
 ASTON MARTIN;Aston Martin DB3S CN.1;1.32;1953
+ASTON MARTIN;Aston Martin DBR9 GT1;1.56;2010
 ASTON MARTIN;Aston Martin One-77;base;2011
 ASTON MARTIN;Aston Martin V12 Vantage GT3;base;2012
 ASTON MARTIN;Aston Martin DP-100 Vision Gran Turismo;base;2014
@@ -33,6 +34,7 @@ AUDI;Audi e-tron Vision Gran Turismo;1.17;2018
 AUDI;Audi Vision Gran Turismo;1.17;2018
 BMW;BMW M3 Sport Evolution;1.15;1989
 BMW;BMW Z8;1.32;2001
+BMW;BMW M3 Coupe;1.50;2003
 BMW;BMW M3 Coupe;1.31;2007
 BMW;BMW M3 GT (BMW Motorsport);1.28;2011
 BMW;BMW Z4 GT3;base;2011
@@ -48,6 +50,7 @@ BUGATTI;Bugatti Veyron 16.4 Gr.4;base;2013
 BUGATTI;Bugatti Vision Gran Turismo;base;2015
 BUGATTI;Bugatti Vision Gran Turismo Gr.1;base;2015
 CHAPARRAL;Chaparral 2X Vision Gran Turismo;base;2014
+CHEVROLET;Chevrolet Corvette Stingrway Racer Concept;1.45;1959
 CHEVROLET;Chevrolet Corvette Sting Ray Sport Coupe (C2);1.31;1963
 CHEVROLET;Chevrolet Camaro Z28;1.40;1969
 CHEVROLET;Chevrolet Corvette Stingray Convertible (C3);1.10;1969
@@ -56,6 +59,7 @@ CHEVROLET;Chevrolet Corvette C7 Gr.3;base;2014
 CHEVROLET;Chevrolet Corvette C7 Gr.3 Road Car;base;2014
 CHEVROLET;Chevrolet Corvette C7 Gr.4;base;2014
 CHEVROLET;Chevrolet Camaro SS;base;2016
+CHEVROLET;Chevrolet Camaro ZL1 1LE;1.45;2018
 CITROËN;GT Road Car;base;2010 Citroën
 CITROËN;Citroën GT Race Car Gr.3;base;2010
 CITROËN;GT Gr.4;base;2010 Citroën
@@ -64,12 +68,14 @@ DAIHATSU;Daihatsu Copen Active Top;1.23;2002
 DAIHATSU;Daihatsu Copen RJ Vision Gran Turismo;base;2017
 DE TOMASO;De Tomaso Pantera;1.13;1971
 DODGE;Dodge Challenger R/T;1.13;1970
+DODGE;Dodge Super Bee;1.45;1970
 DODGE;Dodge Viper GTS Coupe;1.11;2002
 DODGE;Dodge Viper SRT10 Coupe;1.28;2006
 DODGE;Dodge SRT Viper GTS;base;2013
 DODGE;Dodge Viper Gr.4;base;2013
 DODGE;Dodge SRT Viper GT3-R;base;2014
 DODGE;Dodge Charger SRT Hellcat;base;2015
+DODGE;Dodge Charger SRT Hellcat Safety Car;1.53;2015
 DODGE;Dodge SRT Tomahawk GTS-R Vision Gran Turismo;base;2015
 DODGE;Dodge SRT Tomahawk S Vision Gran Turismo;base;2015
 DODGE;Dodge SRT Tomahawk Vision Gran Turismo Gr.1;base;2015
@@ -77,6 +83,7 @@ DODGE;Dodge SRT Tomahawk X Vision Gran Turismo;base;2015
 FERRARI;Ferrari 250 GT Berlinetta passo corto CN.2521;1.36;1961
 FERRARI;Ferrari 250 GTO CN.3729GT;1.23;1962
 FERRARI;Ferrari 330 P4;1.11;1967
+FERRARI;Ferrari 365 GTB4;1.45;1971
 FERRARI;Ferrari Dino 246 GT;1.32;1971
 FERRARI;Ferrari 512BB;1.11;1976
 FERRARI;Ferrari GTO;1.29;1984
@@ -88,6 +95,7 @@ FERRARI;Ferrari 458 Italia Gr.4;base;2009
 FERRARI;Ferrari 458 Italia GT3;base;2013
 FERRARI;Ferrari LaFerrari;base;2013
 FIAT;FIAT 500 F;1.19;1968
+FIAT;FIAT 500 1.2 8v SS Lounge;1.56;2008
 FITTIPALDI MOTORS;Fittipaldi EF7 Vision Gran Turismo by Pininfarina;base;2017
 FORD;Ford GT40 Mark I;1.15;1966
 FORD;Ford Mark IV Race Car;1.25;1967
@@ -102,6 +110,7 @@ FORD;Ford Mustang GT Gr.3;base;2015
 FORD;Ford Mustang GT Gr.3 Road Car;base;2015
 FORD;Ford Mustang GT Gr.4;base;2015
 FORD;Ford Mustang GT Gr.B;base;2015
+FORD;Ford GT;1.53;2017
 GRAN TURISMO;F1500T-A;1.13;1985
 GRAN TURISMO;Amuse S2000 GT1 Turbo;1.25;2004
 GRAN TURISMO;Gran Turismo Racing Kart 125 Shifter;base;2010
@@ -116,6 +125,7 @@ HONDA;Honda Beat;1.23;1991
 HONDA;Honda NSX Type R 1992;1.28;1992
 HONDA;Honda Civic Type R (EK);1.41;1998
 HONDA;Honda Integra Type R (DC2);1.32;1998
+HONDA;Honda S2000;1.43;1999
 HONDA;Honda NSX Epson NSX;1.29;2008
 HONDA;Honda Fit Hybrid;1.38;2014
 HONDA;Honda Project 2&4 powered by RC213V;base;2015
@@ -141,6 +151,7 @@ JAGUAR;Jaguar XJR-9;1.19;1988
 JAGUAR;Jaguar F-Type R;base;2015
 JAGUAR;Jaguar F-Type Gr.3;base;2015
 JAGUAR;Jaguar F-Type Gr.4;base;2015
+JAGUAR;Jaguar Vision Gran Turismo Coupe;1.50;2019
 KTM;KTM X-Bow R;1.10;2012
 LAMBORGHINI;Lamborghini Miura P400 Bertone Prototype CN.0706;1.19;1967
 LAMBORGHINI;Lamborghini Countach LP400;1.10;1974
@@ -148,6 +159,7 @@ LAMBORGHINI;Lamborghini Countach 25th Anniversary;1.36;1988
 LAMBORGHINI;Lamborghini Diablo GT;1.11;2000
 LAMBORGHINI;Lamborghini Aventador LP700-4;1.13;2011
 LAMBORGHINI;Lamborghini Veneno;base;2013
+LAMBORGHINI;Lamborghini Aventador LP750-4 Superveloce;1.47;2015
 LAMBORGHINI;Lamborghini Huracan LP610-4;base;2015
 LAMBORGHINI;Lamborghini Huracan Gr.4;base;2015
 LAMBORGHINI;Lamborghini Huracan GT3;base;2015
@@ -171,6 +183,7 @@ MAZDA;Mazda RX-7 Spirit R Type A;1.10;2002
 MAZDA;Mazda LM55 Vision Gran Turismo;base;2014
 MAZDA;Mazda LM55 Vision Gran Turismo Gr.1;base;2014
 MAZDA;Mazda Atenza Sedan XD L Package;base;2015
+MAZDA;Mazda Demio XD Touring;1.47;2015
 MAZDA;Mazda Roadster S (ND);base;2015
 MAZDA;Mazda Atenza Gr.3;base;2016
 MAZDA;Mazda Atenza Gr.3 Road Car;base;2016
@@ -184,6 +197,7 @@ MCLAREN;McLaren 650S Gr.4;base;2015
 MCLAREN;McLaren P1 GTR;1.31;2016
 MCLAREN;McLaren Ultimate Vision Gran Turismo;base;2017
 MCLAREN;McLaren Ultimate Vision Gran Turismo Gr.1;base;2017
+MERCEDES-BENZ;Mercedes-Benz 300 SEL 6.8 AMG;1.47;1971
 MERCEDES-BENZ;Sauber C9;1.19;1989
 MERCEDES-BENZ;Mercedes-Benz McLaren SLR;1.34;2009
 MERCEDES-BENZ;Mercedes-Benz SLS AMG;base;2010
@@ -200,6 +214,7 @@ MERCEDES-BENZ;Mercedes-AMG F1 W08 EQ Power+ (Colour Variation);1.23;2017
 MINI;Mini-Cooper S;1.25;1965
 MINI;Mini Cooper S;1.29;2005
 MINI;Mini Clubman Vision Gran Turismo;base;2014
+MITSUBISHI;Mitsubishi GTO Twin Turbo;1.43;1991
 MITSUBISHI;Mitsubishi Lancer Evolution IV GSR;1.19;1996
 MITSUBISHI;Mitsubishi XR-PHEV EVOLUTION Vision Gran Turismo;base;2014
 MITSUBISHI;Mitsubishi Lancer Evo X Final Edition;base;2015
@@ -208,8 +223,10 @@ MITSUBISHI;Mitsubishi Lancer Evo X Final Edition Gr.4;base;2015
 MITSUBISHI;Mitsubishi Lancer Evo X Final Edition Gr.B;base;2015
 MITSUBISHI;Mitsubishi Lancer Evo X Final Edition Gr.B Road Car;base;2015
 NISSAN;Nissan Fairlady Z 300ZX TwinTurbo 2seater (Z32);1.28;1989
+NISSAN;Nissan Silvia (S13) K’s Dia Selection;1.43;1990
 NISSAN;Nissan R92CP;1.19;1992
 NISSAN;Nissan Skyline GT-R V-Spec II (R32);1.10;1994
+NISSAN;Nissan 180SX Type X;1.56;1996
 NISSAN;Nissan Skyline GT-R V-Spec (R33);1.15;1997
 NISSAN;Nissan Skyline GT-R V-Spec II Nür (R34);1.10;2002
 NISSAN;Nissan Fairlady Z Version S (Z33);1.32;2007
@@ -241,25 +258,31 @@ PONTIAC;Firebird Trans Am;1.31;1978
 PORSCHE;Porsche 356 A/1500 GS GT Carrera Speedster;1.32;1956
 PORSCHE;Porsche 911 Turbo;1.41;1981
 PORSCHE;Porsche 962C;1.38;1988
+PORSCHE;Porsche 911 (993) Carrera 4 RS Club Sport;1.53;1995
 PORSCHE;Porsche 911 GT3 (996);1.28;2001
 PORSCHE;Porsche 911 GT3 (997);1.28;2008
 PORSCHE;Porsche 911 GT3 RS;base;2016
 PORSCHE;Porsche Cayman GT4 Clubsport;base;2016
 PORSCHE;Porsche 911 RSR;base;2017
 PORSCHE;Porsche 919 Hybrid (Porsche Team);base;2017
+PORSCHE;Porsche Taycan Turbo S;1.47;2019
+RE AMEMIYA;RE Amemiya FD3S RX-7;1.50;2001
 RENAULT;Renault R8 Gordini;1.38;1966
 RENAULT SPORT;Renault Sport Clio V6 24v;1.40;2000
 RENAULT SPORT;Renault Sport Megane Trophy;1.19;2011
 RENAULT SPORT;Renault Sport Megane R.S. Trophy;base;2011
+RENAULT SPORT;Renault Sport Megane R.S. Trophy Safety Car;1.53;2011
 RENAULT SPORT;Renault Sport Megane Gr.4;base;2011
 RENAULT SPORT;Renault Sport Clio R.S. 220 EDC Trophy;base;2015
 RENAULT SPORT;Renault Sport Clio R.S. 220 EDC Trophy;1.19;2016
 RENAULT SPORT;Renault Sport R.S.01;base;2016
 RENAULT SPORT;Renault Sport R.S.01 GT3;base;2016
+RUF;Ruf CTR3;1.50;2007
 SHELBY;Shelby Cobra Daytona Coupe;1.25;1964
 SHELBY;Shelby G.T.350;1.32;1965
 SHELBY;Shelby Cobra 427;1.06;1966
 SUBARU;Subaru Impreza 22B-STI Version;1.29;1998
+SUBARU;Subaru Impreza Coupe WRX Type R STI Version VI;1.43;1999
 SUBARU;Subaru Viziv GT Vision Gran Turismo;base;2014
 SUBARU;Subaru WRX STI Type S;base;2014
 SUBARU;Subaru WRX Gr.3;base;2014
@@ -276,10 +299,13 @@ TESLA MOTORS;Model S Signature Performance;1.31;2012
 TOYOTA;Toyota Sports 800;1.40;1965
 TOYOTA;Toyota 2000GT;1.11;1967
 TOYOTA;Toyota MR2 GT-S;1.13;1987
+TOYOTA;Toyota Corolla Levin 3door 1600GT APEX (AE86);1.43;1983
 TOYOTA;Toyota Sprinter Trueno 3door 1600GT APEX (AE86);1.38;1983
 TOYOTA;Toyota Supra 3.0 GT Turbo A;1.13;1988
 TOYOTA;Toyota Supra RZ;1.11;1997
 TOYOTA;Toyota TS030 Hybrid;base;2012
+TOYOTA;Toyota Crown Athlete G;1.53;2013
+TOYOTA;Toyota Crown Athlete G Safety Car;1.53;2013
 TOYOTA;Toyota FT-1;1.11;2014
 TOYOTA;Toyota FT-1 Vision Gran Turismo;base;2014
 TOYOTA;Toyota FT-1 Vision Gran Turismo Gr.3;base;2014
@@ -289,13 +315,16 @@ TOYOTA;Toyota 86 Gr.B;base;2015
 TOYOTA;Toyota SF-R;base;2015
 TOYOTA;Toyota SF-R Racing Concept;base;2015
 TOYOTA;Toyota 86 GRMN;base;2016
+TOYOTA;Toyota 86 GT “Limited”;1.50;2016
 TOYOTA;Toyota TS050 Hybrid (Toyota Gazoo Racing);base;2017
 TOYOTA;Toyota GR Supra Racing Concept;1.18;2018
+TOYOTA;Toyota GR Supra Nurburgring 24 Hour Livery Gr.4;1.53;2019
 TOYOTA;Toyota GR Supra RZ;1.34;2019
 TOYOTA;Toyota Tundra TRD Pro;1.40;2019
 TVR;TVR Tuscan Speed 6;1.32;2000
 VOLKSWAGEN;Volkswagen Samba Bus Type 2 (T1);1.10;1962
 VOLKSWAGEN;Volkswagen 1200;1.25;1966
+VOLKSWAGEN;Volkswagen Golf I GTI;1.53;1983
 VOLKSWAGEN;Volkswagen Scirocco Gr.4;base;2011
 VOLKSWAGEN;Volkswagen Golf VII GTI;base;2014
 VOLKSWAGEN;Volkswagen GTI Roadster Vision Gran Turismo;base;2014
